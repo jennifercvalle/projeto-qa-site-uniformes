@@ -1,5 +1,18 @@
 ## 📋 Sobre o Projeto
 
+Este projeto foi desenvolvido a partir de um site simples criado por uma familiar como teste para uma loja de uniformes. O objetivo do site era simular a venda de camisetas, permitindo que o usuário selecionasse tamanho e quantidade, adicionasse ao carrinho temporário e finalizasse o pedido via WhatsApp.
+
+A aplicação foi construída em **HTML puro** com alguns arquivos em **JavaScript**, sem integração com banco de dados, meios de pagamento ou persistência de carrinho. O carrinho é apenas temporário e o fluxo de compra redireciona diretamente para o WhatsApp com as informações do pedido.
+
+Aproveitei essa oportunidade para:
+
+- Praticar análise de requisitos  
+- Elaborar casos de teste manuais  
+- Criar cenários BDD  
+- Validar fluxo de compra  
+- Testar regras de seleção de tamanho e quantidade  
+- Identificar possíveis melhorias  
+
 Este projeto foi desenvolvido a partir de um site simples criado por uma familiar como teste para uma loja de uniformes. O objetivo do site era simular a venda de uniformes, permitindo que o usuário selecionasse tamanho e quantidade, adicionasse ao carrinho temporário e finalizasse o pedido via WhatsApp.
 
 A aplicação foi construída em **HTML puro** com alguns arquivos em **JavaScript**, sem integração com banco de dados, meios de pagamento ou persistência de carrinho. O carrinho é apenas temporário e o fluxo de compra redireciona diretamente para o WhatsApp com as informações do pedido.
@@ -472,7 +485,11 @@ Valor extremamente alto - Sistema permite adicionar
   <tr>
    <td>Título:
    </td>
+<<<<<<< HEAD
    <td>Verificar layout em dispositivos 
+=======
+   <td>Verificar Layout por outros dispositivos mobile 
+>>>>>>> 0269ad3920e99062e09776a13e8c2cb2108a7841
    </td>
   </tr>
   <tr>
@@ -520,7 +537,7 @@ Valor extremamente alto - Sistema permite adicionar
   <tr>
    <td>Observações:
    </td>
-   <td>
+   <td> Testado em Asus, Iphone XR, Ipad Mini
    </td>
   </tr>
   <tr>
@@ -546,3 +563,21 @@ Essa melhoria visa tornar a experiência do usuário mais simples, acessível e 
 
  <img src="evidence_images/image14.png" width="" alt="alt_text" title="image_tooltip">
 
+<<<<<<< HEAD
+=======
+   </td>
+  </tr>
+</table>
+
+
+
+## 💡 Sugestão de Melhoria
+
+Além da elaboração dos casos de teste e cenários BDD, identifiquei uma oportunidade de melhoria na usabilidade do site:
+
+- Adicionar um botão fixo ou link visível para o WhatsApp durante toda a navegação, facilitando o contato direto com a loja.
+
+Essa melhoria visa tornar a experiência do usuário mais simples, acessível e prática.
+
+<img src="evidence_images/image11.png" width="" alt="alt_text" title="image_tooltip">
+>>>>>>> 0269ad3920e99062e09776a13e8c2cb2108a7841

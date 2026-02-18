@@ -427,3 +427,15 @@ Aproveitei essa oportunidade para:
    </td>
   </tr>
 </table>
+
+
+
+## 💡 Sugestão de Melhoria
+
+Além da elaboração dos casos de teste e cenários BDD, identifiquei uma oportunidade de melhoria na usabilidade do site:
+
+- Adicionar um botão fixo ou link visível para o WhatsApp durante toda a navegação, facilitando o contato direto com a loja.
+
+Essa melhoria visa tornar a experiência do usuário mais simples, acessível e prática.
+
+<img src="evidence_images/image11.png" width="" alt="alt_text" title="image_tooltip">

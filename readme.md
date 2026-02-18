@@ -1,3 +1,17 @@
+## 📋 Sobre o Projeto
+
+Este projeto foi desenvolvido a partir de um site simples criado por uma familiar como teste para uma loja de uniformes. O objetivo do site era simular a venda de camisetas, permitindo que o usuário selecionasse tamanho e quantidade, adicionasse ao carrinho temporário e finalizasse o pedido via WhatsApp.
+
+A aplicação foi construída em **HTML puro** com alguns arquivos em **JavaScript**, sem integração com banco de dados, meios de pagamento ou persistência de carrinho. O carrinho é apenas temporário e o fluxo de compra redireciona diretamente para o WhatsApp com as informações do pedido.
+
+Aproveitei essa oportunidade para:
+
+- Praticar análise de requisitos  
+- Elaborar casos de teste manuais  
+- Criar cenários BDD  
+- Validar fluxo de compra  
+- Testar regras de seleção de tamanho e quantidade  
+- Identificar possíveis melhorias  
 
 
 <table>

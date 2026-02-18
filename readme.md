@@ -372,7 +372,7 @@ Aproveitei essa oportunidade para:
   <tr>
    <td>Cenário
    </td>
-   <td>Verificar Layout por outros dispositivos (mobile)
+   <td>Verificar Layout por outros dispositivos mobile 
    </td>
   </tr>
   <tr>
@@ -402,7 +402,7 @@ Aproveitei essa oportunidade para:
   <tr>
    <td>Observação
    </td>
-   <td>
+   <td> Testado em Asus, Iphone XR, Ipad Mini
    </td>
   </tr>
   <tr>

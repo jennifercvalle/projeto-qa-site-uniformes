@@ -485,11 +485,7 @@ Valor extremamente alto - Sistema permite adicionar
   <tr>
    <td>Título:
    </td>
-<<<<<<< HEAD
-   <td>Verificar layout em dispositivos 
-=======
    <td>Verificar Layout por outros dispositivos mobile 
->>>>>>> 0269ad3920e99062e09776a13e8c2cb2108a7841
    </td>
   </tr>
   <tr>
@@ -563,8 +559,6 @@ Essa melhoria visa tornar a experiência do usuário mais simples, acessível e 
 
  <img src="evidence_images/image14.png" width="" alt="alt_text" title="image_tooltip">
 
-<<<<<<< HEAD
-=======
    </td>
   </tr>
 </table>
@@ -580,4 +574,3 @@ Além da elaboração dos casos de teste e cenários BDD, identifiquei uma oport
 Essa melhoria visa tornar a experiência do usuário mais simples, acessível e prática.
 
 <img src="evidence_images/image11.png" width="" alt="alt_text" title="image_tooltip">
->>>>>>> 0269ad3920e99062e09776a13e8c2cb2108a7841

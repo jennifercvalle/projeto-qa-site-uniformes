@@ -1,4 +1,4 @@
-## 📋 Sobre o Projeto
+## 📋 Sobre o Projeto 
 
 Este projeto foi desenvolvido a partir de um site simples criado por uma familiar como teste para uma loja de uniformes. O objetivo do site era simular a venda de camisetas, permitindo que o usuário selecionasse tamanho e quantidade, adicionasse ao carrinho temporário e finalizasse o pedido via WhatsApp.
 
